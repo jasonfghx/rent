@@ -5,3 +5,7 @@
 
 <div>2022.6.1 電表</div>
 <img src="S__17399821.jpg" height="240px" width="160px" />
+
+<div>2022.8.4 電表</div>
+<img src="S__3899435.jpg" height="240px" width="160px" />
+
